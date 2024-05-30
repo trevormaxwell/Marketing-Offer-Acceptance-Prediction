@@ -20,5 +20,5 @@ Data is scaled and the following models are explored:
  - Logistic Regression
  - K-Nearest Neighbors
 
-## Train and deploy best model
+### Train and deploy best model
 The Random Forest Classifier performed best based on accuray and precision scores.
